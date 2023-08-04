@@ -5,11 +5,17 @@
 
 ## Skills 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=White)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=C++&logoColor=White)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
 
 ### Tools
-![GIT](https://img.shields.io/badge/GIT-F0532.svg?&style=for-the-badge&logo=C++&logoColor=White)
+![GIT](https://img.shields.io/badge/GIT-F0532.svg?&style=for-the-badge&logo=GIT&logoColor=White)
+
+
+## Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doer.tail@gmail.com)](mailto:doer.tail@gmail.com)
+
 <!--
 **doertail/doertail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
