@@ -2,6 +2,8 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=terry0616)](https://solved.ac/terry0616/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doertail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills 
 ### Languages
