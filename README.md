@@ -6,13 +6,16 @@
 
 
 ## Skills 
-### Languages
-![ppp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+### Teck Stack
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+</div>
 
 
 ### Tools
-![GIT](https://img.shields.io/badge/GIT-F0532.svg?&style=for-the-badge&logo=GIT&logoColor=White)
+<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 
 ## Contacts
